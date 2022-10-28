@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=LonelyFirefly&style=flat-square&color=blue" alt=""/>
   <div align="center">
-  <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ToMjGpkKxspvsNeLyYE/giphy.gif" width="600" height="300"/>
   </div>
 </div>
 
