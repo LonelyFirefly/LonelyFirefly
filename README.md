@@ -1,12 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   <div id="badges">
+    
+  <a href="https://twitter.com/BeingMyselfFlow]">
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Twitter Badge" width="100"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/daniil-kalugin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" width="100"/>
   </a>
+  
   <a href="https://twitter.com/BeingMyselfFlow">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge" width="100"/>
+  </a>  
+  
   </div>
   <img src="https://komarev.com/ghpvc/?username=LonelyFirefly&style=flat-square&color=blue" alt=""/>
   <div align="center">
@@ -18,11 +25,12 @@
 
 ### :man_technologist: About Me : 
 I am a Frontend Developer: <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
-- :technologist: I'm trying to get better at programming every day
+- :technologist: write code every day
 
-- :desktop_computer: In my free time I read tech articles.
+- :desktop_computer: read tech articles and books and watch tech videos
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-kalugin) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/BeingMyselfFlow)
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-kalugin) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/BeingMyselfFlow) [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/JustMeFlow)
 
 ---
 
