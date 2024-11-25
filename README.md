@@ -1,3 +1,12 @@
+## About Me
+
+Experienced frontend developer with over 5 years of expertise in building web applications. I’ve contributed to building key features, driving successful releases, and enhancing performance metrics while collaborating in Agile teams ranging from 5 to 30 members under Agile and SCRUM. Adept at independently managing all stages of the project lifecycle.
+
+- Designed frontend architectures, improved user experience and webpage performance.
+- Collaborated with UI/UX designers to develop reusable, scalable component systems.
+- Passionate about the evolution of frontend development, I stay up-to-date with emerging trends and technologies.
+- Enjoy attending tech conferences, connecting with industry professionals, and expanding my technical expertise.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   <div id="badges">
