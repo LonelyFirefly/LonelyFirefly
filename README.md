@@ -12,11 +12,13 @@
 <p>
 Senior Fullstack Engineer with 7+ years of experience building scalable web applications across Fintech, AI and E-commerce. Frontend specialist with deep expertise in React, TypeScript and Next.js, complemented by hands-on experience building backend services, REST APIs, authentication flows and database-backed features using Node.js, NestJS, Express and PostgreSQL. Passionate about owning features end-to-end while maintaining excellent UX and system performance.
 </p>
+
 <ul>
-  <li>Designed frontend and backend architectures, improved user experience and webpage performance.</li>
-  <li>Collaborated with UI/UX designers to develop reusable, scalable component systems.</li>
-  <li>Passionate about the evolution of frontend and backend development, I stay up-to-date with emerging trends and technologies.</li>
-  <li>Enjoy attending tech conferences, connecting with industry professionals, and expanding my technical expertise.</li>
+  <li>Design and build end-to-end features across the stack, from intuitive React interfaces to scalable Node.js/NestJS backend services.</li>
+  <li>Architect performant web applications with a focus on frontend architecture, reusable systems, API design and developer experience.</li>
+  <li>Optimize application performance through bundle analysis, rendering optimization, caching strategies and Core Web Vitals improvements.</li>
+  <li>Enjoy solving complex engineering challenges involving real-time systems, accessibility, distributed architectures and AI-powered products.</li>
+  <li>Continuously exploring modern technologies, software architecture and engineering best practices to build maintainable, scalable systems.</li>
 </ul>
 
 <div id='stats' align="center">
